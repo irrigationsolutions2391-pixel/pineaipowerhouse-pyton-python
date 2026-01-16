@@ -1,3 +1,5 @@
+on:
+  workflow_dispatch:  # Manual only - no auto runs
 name: Release Doctor
 on:
   pull_request:
