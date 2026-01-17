@@ -1,6 +1,6 @@
 [project]
 name = "pineaipowerhouse_pyton"
-version = "0.0.2"
+version = "0.1.0"
 description = "The official Python library for the pineaipowerhouse-pyton API"
 dynamic = ["readme"]
 license = "Apache-2.0"
